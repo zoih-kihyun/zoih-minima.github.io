@@ -96,7 +96,7 @@ email: zoih.contact@gmail.com
 description: >-
   회사 소개 문구를 여기에 작성하세요.
 baseurl: ""
-url: "https://zoih.github.io"
+url: "https://zoih-minima.github.io"
 
 # Build settings
 markdown: kramdown
