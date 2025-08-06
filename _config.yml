@@ -90,3 +90,22 @@
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
 #   hide_site_feed_link: false
+
+title: 조이김
+email: zoih.contact@gmail.com
+description: >-
+  회사 소개 문구를 여기에 작성하세요.
+baseurl: ""
+url: "https://zoih.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# 네비게이션 설정
+header_pages:
+  - about.md
+  - services.md
+  - contact.md
